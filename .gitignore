@@ -8,3 +8,5 @@
 /public/data
 *.png
 coverage
+.tags
+/.vagrant
